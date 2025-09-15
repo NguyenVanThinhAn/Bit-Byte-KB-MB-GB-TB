@@ -1,0 +1,8 @@
+Một bức ảnh có dung lượng bằng 2mb, đổi sang byte: 1024 x 1024 = 1048576, 1048576 x 2 = 2097152 => 2mb = 2097152 byte
+
+5 bức ảnh như vậy => 10mb.
++qua kb: 10 x 1024 = 10,240kb
++qua mb: 5x2 = 10mb
++qua GB: 10/1024 = 0.009765625gb
+
+
