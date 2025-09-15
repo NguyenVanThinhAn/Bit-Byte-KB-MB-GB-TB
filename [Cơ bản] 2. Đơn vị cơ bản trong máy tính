@@ -1,0 +1,2 @@
+cách chuyển đổi từ bit sang byte. Ví dụ bit cần chuyển đổi bằng "x" vậy x sang byte là x/8
+1024 bit sang byte: 1024/8 =  128
