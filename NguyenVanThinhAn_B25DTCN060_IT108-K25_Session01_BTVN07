@@ -1,0 +1,42 @@
+Chu trình xử lý thông tin hệ thống bán hàng online tổng quát:
+
+
+________________________________
+Nhập dữ liệu:
+-Khách hàng đăng ký, đăng nhập
+-Khách hàng đặt món hàng nào
+-Đánh giá ra sao
+________________________________
+              |
+              |
+              |
+              ▼
+________________________________________________________________
+Xử lý dữ liệu:
+-Xem thông tin có hợp lệ không
+-Hàng còn trong kho không
+-Địa chỉ khách hàng có nằm trong vùng được ưu đaĩ, hỗ trợ không
+-Thanh toán
+________________________________________________________________
+              |
+              |
+              |
+              ▼
+_________________________________________________________________________
+Lưu trữ:
+-Lưu lại thông tin của khách hàng, lần sau không cần phải đăng nhập lại
+-Xác nhận đã/chưa thanh toán, có thể chọn thanh toán khi nhận hàng
+-Đơn hàng, sản phẩm
+_________________________________________________________________________
+              |
+              |
+              |
+              ▼
+___________________________________
+Đầu ra:
+-Xác nhận thông tin của khách hàng
+-Xác nhận đơn hàng
+-Phương thức thanh toán
+-Bắt đầu giao hàng
+___________________________________
+
