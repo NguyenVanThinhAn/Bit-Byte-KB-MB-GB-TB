@@ -1,0 +1,16 @@
+Chu trình xử lý dữ liệu của máy tính:
+-Đầu tiên các thiết bị đầu vào sẽ gửi những đoạn mã nhị phân vào máy tính.
+-Tiếp theo máy tính sẽ dựa vào thông tin đó để xử lý các tác vụ.
+-Máy tính sẽ lưu trữ nếu đó là lệnh lưu trữ, như tạo một file mới. Nếu không phải lệnh lưu trữ, máy tính sẽ lưu tạm vào ram để lần thực thi sau có thể diễn ra nhanh và tốn ít tài nguyên hơn.
+-Cuối cùng là xuất ra đầu ra. Có thể là màn hình, loa, v.v.
+
+Ví dụ thực tế
+-Người dùng gõ phím trong bàn phím.
+-Máy tính xử lý xem đó là lệnh gì, cần xuất ra chữ gì.
+-Lưu trữ tạm thời lại để lần sau đỡ tốn tài nguyên và xử lý nhanh hơn.
+-Xuất ra màn hình của người dùng, chuyển hoá các đoạn mã nhị phân thành chữ cái cụ thể.
+
+
+
+
+
