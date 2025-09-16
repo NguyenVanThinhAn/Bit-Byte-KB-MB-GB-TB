@@ -2,3 +2,7 @@ Một video có dụng lượng 500mb
 Đổi sang Kb: 500 x 1024 = 512000
 Đổi sang Byte: 512000(kb) x 1024
 Đổi sang Gb: 500/1024 = 0.49gb
+
+Một tài liệu có 50kb, 1gb có thể lưu trữ được:
+1gb = 1024mb =  1024 x 1024 = 1048576
+vậy có thể lưu trữ được. 1048576/50 = 20971.52
